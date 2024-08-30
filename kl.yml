@@ -1,0 +1,9 @@
+version: v1
+defaultEnv: rp-main
+packages:
+- neovim
+- git
+envVars: []
+mounts: []
+ports: []
+accountName: demoaccount

@@ -1,0 +1,4 @@
+{
+  "git@2.45.2": "nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#git",
+  "neovim@0.10.1": "nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#neovim"
+}
